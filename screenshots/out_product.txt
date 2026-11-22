@@ -1,0 +1,21 @@
+PRODUCT 85123A: WHITE HANGING HEART T-LIGHT HOLDER  (£2.95)
+--------------------------------------------------------------------------------------
+Customers who bought this also bought (Item-CF cosine):
+  1. 21733    RED HANGING HEART T-LIGHT HOLDER                 £  2.95  sim=0.543
+  2. 22804    CANDLEHOLDER PINK HANGING HEART                  £  2.95  sim=0.493
+  3. 22470    HEART OF WICKER LARGE                            £  2.95  sim=0.411
+  4. 22469    HEART OF WICKER SMALL                            £  1.65  sim=0.380
+  5. 82482    WOODEN PICTURE FRAME WHITE FINISH                £  2.55  sim=0.363
+  6. 22457    NATURAL SLATE HEART CHALKBOARD                   £  2.95  sim=0.353
+  7. 22189    CREAM HEART CARD HOLDER                          £  3.95  sim=0.341
+  8. 23321    SMALL WHITE HEART OF WICKER                      £  1.65  sim=0.339
+--------------------------------------------------------------------------------------
+Similar products by description (Content-Based TF-IDF cosine):
+  1. 21733    RED HANGING HEART T-LIGHT HOLDER                 £  2.95  sim=0.804
+  2. 85118    HEART T-LIGHT HOLDER                             £  1.25  sim=0.685
+  3. 21814    HEART T-LIGHT HOLDER                             £  1.45  sim=0.685
+  4. 84978    HANGING HEART JAR T-LIGHT HOLDER                 £  1.25  sim=0.571
+  5. 23087    ZINC  HEART T-LIGHT HOLDER                       £  1.25  sim=0.549
+  6. 21313    GLASS HEART T-LIGHT HOLDER                       £  0.85  sim=0.541
+  7. 23398    HANGING HEART BONHEUR                            £  0.85  sim=0.531
+  8. 84970S   HANGING HEART ZINC T-LIGHT HOLDER                £  0.85  sim=0.505

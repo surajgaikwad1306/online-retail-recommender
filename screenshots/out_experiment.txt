@@ -1,0 +1,21 @@
+TEST RESULTS (top-10, new-item discovery)
+                precision  recall  hit_rate    ndcg  coverage  fit_score_time_s
+model                                                                          
+Random             0.0100  0.0029    0.0864  0.0099    0.9976            0.0000
+Popularity         0.0489  0.0200    0.3349  0.0523    0.0183            0.0108
+Content-Based      0.0721  0.0410    0.3904  0.0839    0.5475            0.1478
+Item-CF            0.0907  0.0447    0.4683  0.1021    0.3140            0.4890
+MF (SVD, k=20)     0.0970  0.0473    0.4805  0.1090    0.1302            0.0490
+Hybrid             0.1004  0.0531    0.4960  0.1170    0.3456            0.8770
+NDCG 95% CI: {'Random': [0.0083, 0.0116], 'Popularity': [0.0482, 0.0566], 'Content-Based': [0.0775, 0.0902], 'Item-CF': [0.0953, 0.1091], 'MF (SVD, k=20)': [0.1018, 0.1162], 'Hybrid': [0.1093, 0.1248]}
+Hybrid - ItemCF NDCG diff CI: [0.0115, 0.0182]
+
+NDCG by customer history size:
+         Popularity  Content-Based  Item-CF  MF (SVD, k=20)  Hybrid  n_users
+bucket                                                                     
+1-10        0.0477         0.0776   0.0769          0.0811  0.0958      205
+11-30       0.0450         0.0683   0.0872          0.0865  0.0971      505
+31-100      0.0526         0.0856   0.1053          0.1129  0.1201      825
+>100        0.0655         0.1067   0.1319          0.1496  0.1519      340
+
+Saved results/ (metrics.json, test_results.csv, figures)
