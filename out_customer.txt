@@ -1,0 +1,21 @@
+CUSTOMER 17850  (United Kingdom, 34 orders)  model=hybrid
+--------------------------------------------------------------------------------------
+Top items in purchase history:
+   - 85123A   WHITE HANGING HEART T-LIGHT HOLDER  (pref=6.24)
+   - 71053    WHITE METAL LANTERN  (pref=6.24)
+   - 84029G   KNITTED UNION FLAG HOT WATER BOTTLE  (pref=6.19)
+   - 22632    HAND WARMER RED RETROSPOT  (pref=6.18)
+   - 22633    HAND WARMER UNION JACK  (pref=6.18)
+--------------------------------------------------------------------------------------
+Recommended for you (top 10):
+  #  Code     Product                                        Price  score  CF / MF / CB / POP
+  1. 21733    RED HANGING HEART T-LIGHT HOLDER             £  2.95  0.726  1.00 / 0.47 / 0.63 / 0.44
+  2. 82484    WOOD BLACK BOARD ANT WHITE FINISH            £  7.95  0.668  0.75 / 0.43 / 0.84 / 0.32
+  3. 22470    HEART OF WICKER LARGE                        £  2.95  0.552  0.94 / 0.51 / 0.06 / 0.55
+  4. 23355    HOT WATER BOTTLE KEEP CALM                   £  4.95  0.548  0.86 / 0.43 / 0.21 / 0.54
+  5. 22834    HAND WARMER BABUSHKA DESIGN                  £  2.10  0.510  0.62 / 0.34 / 0.57 / 0.23
+  6. 23439    HAND WARMER RED LOVE HEART                   £  2.10  0.506  0.53 / 0.35 / 0.64 / 0.30
+  7. 22865    HAND WARMER OWL DESIGN                       £  2.10  0.497  0.58 / 0.39 / 0.48 / 0.42
+  8. 23322    LARGE WHITE HEART OF WICKER                  £  2.95  0.486  0.66 / 0.35 / 0.38 / 0.40
+  9. 22469    HEART OF WICKER SMALL                        £  1.65  0.475  0.72 / 0.53 / 0.06 / 0.65
+ 10. 21479    WHITE SKULL HOT WATER BOTTLE                 £  4.25  0.471  0.58 / 0.31 / 0.49 / 0.29
