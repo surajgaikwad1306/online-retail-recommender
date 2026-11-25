@@ -7,6 +7,7 @@ python download_data.py
 ```
 
 This saves `data/retail.csv` (541,909 rows).
+The downloader validates the CSV structure and checks the transfer size when the server provides it. It writes to a temporary file before replacing the destination, so an incomplete download won't overwrite an existing dataset; an invalid existing file is downloaded again.
 
 **Source:** UCI Machine Learning Repository, *Online Retail*, https://archive.ics.uci.edu/dataset/352/online+retail
 (Chen, D. (2015). Online Retail [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33).
