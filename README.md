@@ -1,4 +1,4 @@
-Project 39 – Recommendation System Experiment
+Project name – Recommendation System Experiment
 
 Overview
 
@@ -132,8 +132,7 @@ np.random.seed(42)
 This helps maintain reproducibility for random operations used in the experiment.
 
 Author
-
-SURAJ TRAMBAK GAIKWAD 
+ suraj trambak gaikwad 
 
 ---
 
